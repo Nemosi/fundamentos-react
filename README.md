@@ -1,2 +1,2 @@
-# fundamentos-reat
+# fundamentos-react
  Aprendendo com o vite
